@@ -1,6 +1,6 @@
-hello
+hello. 
+========================
 
-<!---
-abrokecube/abrokecube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+welcome to my *barren* github page  
+right now i don't have a lot of stuff to show off  
+maybe in the future i'll make something very cool epic or awesome 🙂
